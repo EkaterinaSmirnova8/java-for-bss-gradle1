@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.*;
 
-public class BaseSeleniumTest1 {
+public class BaseSeleniumTest {
     @Test
     public void testSum() {
         int x = 2;
